@@ -26,7 +26,7 @@
 <body>
     <h1>Jenkins WAR Demo</h1>
     <div class="info-box">
-        <p>Welcome to the demo Java web application! Thank You</p>
+        <p>Welcome to the demo Java web application! Thank You...</p>
         <p>Current Server Time: <%= new Date() %></p>
         <p>Project: DemoWebApp</p>
     </div>
